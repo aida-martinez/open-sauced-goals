@@ -13,13 +13,13 @@
   },
   {
     "full_name": "d3/d3",
-    "stargazers_count": 101811,
+    "stargazers_count": 101814,
     "open_issues_count": 3,
-    "forks_count": 23126
+    "forks_count": 23128
   },
   {
     "full_name": "shipshapecode/shepherd",
-    "stargazers_count": 10367,
+    "stargazers_count": 10371,
     "open_issues_count": 37,
     "forks_count": 576
   },
@@ -31,13 +31,13 @@
   },
   {
     "full_name": "picocss/pico",
-    "stargazers_count": 5269,
+    "stargazers_count": 5270,
     "open_issues_count": 37,
     "forks_count": 175
   },
   {
     "full_name": "coreybutler/nvm-windows",
-    "stargazers_count": 21948,
+    "stargazers_count": 21957,
     "open_issues_count": 84,
     "forks_count": 2311
   },
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "WordPress/gutenberg",
-    "stargazers_count": 7984,
-    "open_issues_count": 5154,
-    "forks_count": 3042
+    "stargazers_count": 7985,
+    "open_issues_count": 5156,
+    "forks_count": 3043
   },
   {
     "full_name": "ForrestKnight/open-source-cs",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "nuxt/nuxt.js",
-    "stargazers_count": 40803,
-    "open_issues_count": 453,
-    "forks_count": 3253
+    "stargazers_count": 40804,
+    "open_issues_count": 454,
+    "forks_count": 3255
   },
   {
     "full_name": "Dawntraoz/full-static-nuxt-storyblok",
@@ -86,7 +86,7 @@
   {
     "full_name": "funkhaus/fuxt",
     "stargazers_count": 166,
-    "open_issues_count": 16,
+    "open_issues_count": 17,
     "forks_count": 19
   },
   {
@@ -109,19 +109,19 @@
   },
   {
     "full_name": "cawa-93/vite-electron-builder",
-    "stargazers_count": 1191,
+    "stargazers_count": 1194,
     "open_issues_count": 4,
     "forks_count": 162
   },
   {
     "full_name": "catdad/canvas-confetti",
-    "stargazers_count": 3660,
+    "stargazers_count": 3662,
     "open_issues_count": 23,
     "forks_count": 190
   },
   {
     "full_name": "Wox-launcher/Wox",
-    "stargazers_count": 21928,
+    "stargazers_count": 21929,
     "open_issues_count": 896,
     "forks_count": 2330
   },
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "getify/You-Dont-Know-JS",
-    "stargazers_count": 155602,
+    "stargazers_count": 155619,
     "open_issues_count": 132,
-    "forks_count": 30637
+    "forks_count": 30640
   },
   {
     "full_name": "jammeryhq/gridsome-starter-casper-v3",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "responsively-org/responsively-app",
-    "stargazers_count": 16774,
+    "stargazers_count": 16776,
     "open_issues_count": 127,
     "forks_count": 707
   }
